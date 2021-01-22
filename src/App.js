@@ -18,7 +18,6 @@ console.log(productGroups);
 
 function App() {
   const classes = useStyles();
-  console.log(classes);
   
   return (
     <div className={classes.container}>
