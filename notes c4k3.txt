@@ -1,0 +1,36 @@
+1 setup material.ui
+
+https://www.youtube.com/watch?v=pHclLuRolzE&list=PLQg6GaokU5CwiVmsZ0d_9Zsg_DnIP_xwr&index=1
+
+npm install @material-ui/core --save
+npm install @material-ui/icons --save
+npm install @material-ui/styles --save
+npm install react-router-dom --save
+
+hooks
+yarn add eslint-plugin-react-hooks --dev
+https://reactjs.org/docs/hooks-overview.html
+https://blog.logrocket.com/use-hooks-and-context-not-react-and-redux/
+
+Appbar sample
+https://stackblitz.com/edit/material-ui-appbar-example?file=demo.js
+
+Appbar settings
+https://react.school/material-ui/appbar
+
+carousel, not used
+https://www.npmjs.com/package/react-responsive-carousel
+
+image, not used
+https://mui.wertarbyte.com/#material-ui-image
+
+hover image,
+https://github.com/jwo/react-hover-image
+
+cart template
+https://www.youtube.com/watch?v=R_7XRX7nLsw&t=944s
+
+nested menu example
+https://medium.com/@modularcoder/reactjs-multi-level-sidebar-navigation-menu-with-typescrip-materialui-251943c12dda
+
+
