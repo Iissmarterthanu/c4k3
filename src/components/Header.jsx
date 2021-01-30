@@ -27,6 +27,7 @@ const useStyles = makeStyles( (theme) => ({
 
 const Header = (props) => {
   const { history } = props;
+  console.log(history);
   const [anchorEl, setAnchorEl] = React.useState(null);
   const open = Boolean(anchorEl);
   const theme = useTheme();
@@ -47,11 +48,11 @@ const Header = (props) => {
   };
 
   const menuItems = [
-    // {
-    //   key: "1",
-    //   menuTitle: "Shop",
-    //   pageURL: "/shop"
-    // },
+    {
+      key: "1",
+      menuTitle: "Shop",
+      pageURL: "/shop"
+    },
     {
       key: "2",
       menuTitle: "About",

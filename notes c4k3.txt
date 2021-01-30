@@ -31,6 +31,9 @@ cart template
 https://www.youtube.com/watch?v=R_7XRX7nLsw&t=944s
 
 nested menu example
-https://medium.com/@modularcoder/reactjs-multi-level-sidebar-navigation-menu-with-typescrip-materialui-251943c12dda
+https://ui.dev/react-router-v4-nested-routes/
+https://www.youtube.com/watch?v=sfvrjwVihFY
+https://reactrouter.com/web/example/basic
 
-
+dynamic routing
+https://www.youtube.com/watch?v=Law7wfdg_ls
