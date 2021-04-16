@@ -27,7 +27,7 @@ const ItemCard = () => {
         <ItemHoverImage />
         <CardContent>
           <Typography variant="body2" color="textSecondary" component="p">
-            Martingale collarz with a stylish Snap-on Bow Tie.
+            Martingale collar with a stylishly Snap-on Bow Tie.
           </Typography>
         </CardContent>
       </CardActionArea>
