@@ -62,10 +62,14 @@ const ProductTabs = (props) => {
           scrollButtons="auto"
         >
           {groups.map( item => { 
-            return (<Tab 
-              label={item.name} 
-              onClick={() => {}}
-            />)
+            return (
+                <Tab 
+                  label={item.name} 
+                  onClick={() => {console.log(`/shop/${item.name}`);
+                    history.push(`/shop/${item.name}`)
+                  }}
+                />
+            )
           })}
 
         </Tabs>

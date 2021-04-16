@@ -126,8 +126,7 @@ const itemData = [
     name: "Red Skulls on black",
     desc: "Perfect for rebal dogs",
     urls: ["url1", "url2", "url3"],
-    stock: [{ s: 0 }, { m: 2 }, { l: 1 }, { xl: 0 }],
-    price: 123.45
+    stock: [{ s: 0 }, { m: 2 }, { l: 1 }, { xl: 0 }]
   },
   {
     id: "3",
